@@ -1,17 +1,3 @@
-HI I am Madhumith 
-
-🎓 Integrated M.Sc. in AI & ML @ Coimbatore Institute of Technology (2021–2026)<br/>
-🧠 Passionate about Machine Learning, NLP, Explainable AI, and Adversarial Robustness<br/>
-🛡️ Building robust, transparent AI systems that solve real-world problems<br/>
-💻 Proficient in Python, FastAPI, TensorFlow, MERN stack, and full-stack AI development<br/>
-📚 Published & Copyrighted — KeBos AI | Book Chapter with Springer (Accepted)<br/>
-🧪 Always experimenting with new ideas, models, and AI tools<br/>
-🌐 Projects in Cybersecurity, Healthcare AI, and Mental Health Tech<br/>
-🚀 Currently contributing to AI-powered threat detection and governance tools<br/>
-🔍 Exploring the intersection of AI, trust, and societal impact<br/>
-💡 Believer in open-source, collaboration, and ethical AI innovation<br/>
-
-
 # 💫 About Me:
 HI I am Madhumith <br><br>🎓 Integrated M.Sc. in AI & ML @ Coimbatore Institute of Technology (2021–2026)<br/><br>🧠 Passionate about Machine Learning, NLP, Explainable AI, and Adversarial Robustness<br/><br>🛡️ Building robust, transparent AI systems that solve real-world problems<br/><br>💻 Proficient in Python, FastAPI, TensorFlow, MERN stack, and full-stack AI development<br/><br>📚 Published & Copyrighted — KeBos AI | Book Chapter with Springer (Accepted)<br/><br>🧪 Always experimenting with new ideas, models, and AI tools<br/><br>🌐 Projects in Cybersecurity, Healthcare AI, and Mental Health Tech<br/><br>🚀 Currently contributing to AI-powered threat detection and governance tools<br/><br>🔍 Exploring the intersection of AI, trust, and societal impact<br/><br>💡 Believer in open-source, collaboration, and ethical AI innovation<br/><br>
 
